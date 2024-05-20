@@ -6,7 +6,7 @@ Este projeto tem como objetivo monitorar a frequência cardíaca dos usuários e
 
 ## Funcionamento e Uso
 
-O sistema utiliza um NodeMCU (ESP8266) conectado a um sensor de frequência cardíaca MAX30102 para monitorar os batimentos cardíacos. Quando os batimentos ultrapassam 100 BPM, um buzzer é acionado e uma notificação é enviada via protocolo MQTT para um broker na nuvem. O usuário recebe a notificação em seu smartphone.
+O sistema utiliza um NodeMCU (ESP8266) conectado a um sensor de frequência cardíaca MAX30102 para monitorar os batimentos cardíacos. Quando os batimentos ultrapassam 100 BPM, um buzzer é acionado e uma notificação é enviada via protocolo MQTT para um broker.
 
 ## Vídeo-Demonstração
 
