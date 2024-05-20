@@ -14,10 +14,6 @@ WiFiClient espClient;
 PubSubClient client(espClient);
 MAX30105 particleSensor;
 
-void callback(char* topic, byte* payload, unsigned int length) {
-  // Handle incoming messages
-}
-
 void setup() {
   pinMode(BUZZER_PIN, OUTPUT);
   Serial.begin(9600);
@@ -33,7 +29,7 @@ void setup() {
   }
 
   if (!particleSensor.begin(Wire, I2C_SPEED_FAST)) {
-    Serial.println("MAX30105 was not found. Please check wiring/power.");
+    Serial.println("MAX30102 Não encontrado.");
     while (1);
   }
 
