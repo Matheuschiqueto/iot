@@ -14,10 +14,6 @@ O sistema utiliza um NodeMCU (ESP8266) conectado a um sensor de frequência card
 
 ---
 
-### Arquivos:
-
-- `main.ino`: Código principal do projeto, incluindo a configuração do sensor, buzzer e comunicação MQTT.
-
 ## Descrição do Hardware Utilizado
 
 ### Componentes:
@@ -28,6 +24,7 @@ O sistema utiliza um NodeMCU (ESP8266) conectado a um sensor de frequência card
 
 ### Esquema de Montagem
 
-O esquema eletrônico está disponível no arquivo `hardware/esquema_fritzing.fzz`.
+![image](https://github.com/Matheuschiqueto/iot/assets/125330571/fa8c92fc-ead2-46e2-91a5-e0f7ef0c4a82)
 
-![Esquema de Montagem](imagens/diagramas.png)
+
+
