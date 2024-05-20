@@ -24,7 +24,7 @@ O sistema utiliza um NodeMCU (ESP8266) conectado a um sensor de frequência card
 
 ### Esquema de Montagem
 
-![image](https://github.com/Matheuschiqueto/iot/assets/125330571/fa8c92fc-ead2-46e2-91a5-e0f7ef0c4a82)
+(https://github.com/Matheuschiqueto/iot/assets/125330571/fa8c92fc-ead2-46e2-91a5-e0f7ef0c4a82)
 
 
 
