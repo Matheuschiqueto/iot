@@ -10,7 +10,7 @@ O sistema utiliza um NodeMCU (ESP8266) conectado a um sensor de frequência card
 
 ## Vídeo-Demonstração
 
-[Assista ao vídeo-demonstração no YouTube](link_do_video)
+[[Assista ao vídeo-demonstração no YouTube](link_do_video)](https://www.youtube.com/watch?v=Mmq-YgxJZFE)
 
 ---
 
